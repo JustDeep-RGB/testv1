@@ -963,7 +963,7 @@
 						</div>
 					</div>
 				</section>
-				<section class="hidden flex w-full flex-col items-center justify-center self-stretch">
+				<section class="flex w-full flex-col items-center justify-center self-stretch">
 					<div
 						class="flex max-w-[1728px] flex-1 items-center px-3 pb-0 md:w-[768px] md:px-6 xl:w-[1280px] xl:px-8 2xl:w-[1512px] relative mx-auto w-full self-stretch pt-0 md:pt-14 xl:pt-16">
 						<div class="border-breakout-black bg-breakout-black relative flex aspect-[2/1] w-full flex-1 items-start justify-end rounded-[4px] border-[3px] border-solid p-10"
@@ -1832,7 +1832,7 @@
 								</clipPath>
 							</defs>
 						</svg>
-						<div class="-mt-4 flex w-full flex-col items-start gap-4 hidden">
+						<div class="-mt-4 flex w-full flex-col items-start gap-4">
 							<div class="border-breakout-black group relative flex h-[368px] w-full flex-col items-start overflow-hidden rounded border-[3px]"
 								data-svelte-h="svelte-lfpq9m">
 								<div class="absolute inset-0 h-full w-full overflow-hidden">
